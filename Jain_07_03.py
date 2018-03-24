@@ -1,7 +1,3 @@
-#Jain, Kritika
-#1001-093-381
-#2017-12-06
-#Assignment_07_03
 
 meshes = {
     "Plane": (

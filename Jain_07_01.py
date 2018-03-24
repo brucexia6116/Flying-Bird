@@ -1,8 +1,3 @@
-#Jain, Kritika
-#1001-093-381
-#2017-12-06
-#Assignment_07_01
-
 from OpenGL.GL import *
 from OpenGL.arrays import vbo
 #from OpenGLContext.arrays import *
